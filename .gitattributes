@@ -1,0 +1,5 @@
+*.pbxproj -text
+ios/* linguist-vendored
+android/* linguist-vendored
+*.tsx linguist-detectable=true
+*.js linguist-detectable=true
